@@ -1,0 +1,2282 @@
+[
+  {
+    "claimNumber": "C10001",
+    "firstName": "Dylan",
+    "lastName": "Russo",
+    "incidentDate": "2024-06-28",
+    "claimDate": "2024-07-20",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 94,
+      "ML Reasoning": "The model assigned a confidence score of 94.44 to this claim considering several factors. First, the claim amount is less than the maximum coverage amount, which is a positive aspect. Secondly, the insured doesn't have any prior claims or accidents in the last 5 years, and no motoring offenses, which indicates a good driving record. However, the 'Not Applicable' entry for Damage Type could mean the model lacked certain information that could have increased the confidence score. Lastly, the annual mileage estimate is not excessively high, which may also contribute to a higher confidence score. Despite positive factors, the lack of clear data on damage might have affected the score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "BS1 1AA",
+    "full_details": {
+      "claimNumber": "C10001",
+      "firstName": "Dylan",
+      "lastName": "Russo",
+      "incidentDate": "2024-06-28",
+      "claimDate": "2024-07-20",
+      "accessorNotes": "",
+      "vehicle_registration_number": "SM47-QDH",
+      "policy_id": "MPI1000455",
+      "policy_issue_date": "2024-06-23",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 94,
+        "ML Reasoning": "The model assigned a confidence score of 94.44 to this claim considering several factors. First, the claim amount is less than the maximum coverage amount, which is a positive aspect. Secondly, the insured doesn't have any prior claims or accidents in the last 5 years, and no motoring offenses, which indicates a good driving record. However, the 'Not Applicable' entry for Damage Type could mean the model lacked certain information that could have increased the confidence score. Lastly, the annual mileage estimate is not excessively high, which may also contribute to a higher confidence score. Despite positive factors, the lack of clear data on damage might have affected the score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "BS1 1AA",
+      "marital_status": "Divorced",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 40429.4,
+      "estimated_value_of_car": 40429.4,
+      "Claim_amount": 25000.0,
+      "car_brand": "McLaren",
+      "car_model": "570S",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10002",
+    "firstName": "Ivaylo",
+    "lastName": "Tafrov",
+    "incidentDate": "2024-08-13",
+    "claimDate": "2024-10-02",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 92,
+      "ML Reasoning": "The confidence score of 92.13 may stem from the fact that the claim amount of 775.69 is significantly less than the maximum coverage amount of 1227.87 and the amount paid out is even lower at 433.65, indicating that the claim may not be an attempt at a large fraudulent payout. Additionally, the lack of prior claims or accidents in the last five years suggests a low-risk profile. However, the presence of motoring offences in the past five years could introduce some uncertainty into the model's prediction, thus lowering the confidence score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "G1 1AA",
+    "full_details": {
+      "claimNumber": "C10002",
+      "firstName": "Ivaylo",
+      "lastName": "Tafrov",
+      "incidentDate": "2024-08-13",
+      "claimDate": "2024-10-02",
+      "accessorNotes": "",
+      "vehicle_registration_number": "PJ32-BWC",
+      "policy_id": "MPI1000456",
+      "policy_issue_date": "2024-08-08",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 92,
+        "ML Reasoning": "The confidence score of 92.13 may stem from the fact that the claim amount of 775.69 is significantly less than the maximum coverage amount of 1227.87 and the amount paid out is even lower at 433.65, indicating that the claim may not be an attempt at a large fraudulent payout. Additionally, the lack of prior claims or accidents in the last five years suggests a low-risk profile. However, the presence of motoring offences in the past five years could introduce some uncertainty into the model's prediction, thus lowering the confidence score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "G1 1AA",
+      "marital_status": "Single",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 28688.57,
+      "estimated_value_of_car": 28688.57,
+      "Claim_amount": 9500.0,
+      "car_brand": "McLaren",
+      "car_model": "570S",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10003",
+    "firstName": "Amy",
+    "lastName": "Love",
+    "incidentDate": "2024-08-21",
+    "claimDate": "2024-09-03",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 90,
+      "ML Reasoning": "The model's confidence score of 89.72 may be due to a combination of factors. The claim amount is less than the maximum coverage amount, which could increase the confidence score. However, the fact that there was a prior accident in the last 5 years but no prior claims might slightly decrease the score, as it suggests a potential risk of future claims. The absence of a specified damage type could also contribute to the lowered confidence, as it may indicate incomplete information. Furthermore, the high annual mileage could also suggest a higher risk of incidents, possibly reducing the model's confidence.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "SW1A 1AA",
+    "full_details": {
+      "claimNumber": "C10003",
+      "firstName": "Amy",
+      "lastName": "Love",
+      "incidentDate": "2024-08-21",
+      "claimDate": "2024-09-03",
+      "accessorNotes": "",
+      "vehicle_registration_number": "AF68-TSG",
+      "policy_id": "MPI1000457",
+      "policy_issue_date": "2024-08-16",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 90,
+        "ML Reasoning": "The model's confidence score of 89.72 may be due to a combination of factors. The claim amount is less than the maximum coverage amount, which could increase the confidence score. However, the fact that there was a prior accident in the last 5 years but no prior claims might slightly decrease the score, as it suggests a potential risk of future claims. The absence of a specified damage type could also contribute to the lowered confidence, as it may indicate incomplete information. Furthermore, the high annual mileage could also suggest a higher risk of incidents, possibly reducing the model's confidence.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "SW1A 1AA",
+      "marital_status": "Married",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 8169.42,
+      "estimated_value_of_car": 8169.42,
+      "Claim_amount": 2000.0,
+      "car_brand": "McLaren",
+      "car_model": "570S",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10004",
+    "firstName": "Lana",
+    "lastName": "Shashi",
+    "incidentDate": "2024-09-07",
+    "claimDate": "2024-09-24",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 95,
+      "ML Reasoning": "The model's confidence score of 95 might be due to the fact that the claimant has a clean history with no prior claims, accidents, or motoring offenses in the last 5 years, which lowers the risk and increases trust. However, the annual mileage estimate is relatively high which could increase the risk of incidents. Furthermore, the amount claimed is within the maximum coverage amount, but is a substantial sum nonetheless. The damage type being not applicable for a fire claim might slightly reduce the confidence due to lack of detailed description.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "S1 1AA",
+    "full_details": {
+      "claimNumber": "C10004",
+      "firstName": "Lana",
+      "lastName": "Shashi",
+      "incidentDate": "2024-09-07",
+      "claimDate": "2024-09-24",
+      "accessorNotes": "",
+      "vehicle_registration_number": "JN96-CZL",
+      "policy_id": "MPI1000458",
+      "policy_issue_date": "2024-09-02",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 95,
+        "ML Reasoning": "The model's confidence score of 95 might be due to the fact that the claimant has a clean history with no prior claims, accidents, or motoring offenses in the last 5 years, which lowers the risk and increases trust. However, the annual mileage estimate is relatively high which could increase the risk of incidents. Furthermore, the amount claimed is within the maximum coverage amount, but is a substantial sum nonetheless. The damage type being not applicable for a fire claim might slightly reduce the confidence due to lack of detailed description.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "S1 1AA",
+      "marital_status": "Single",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 923.24,
+      "estimated_value_of_car": 923.24,
+      "Claim_amount": 800.0,
+      "car_brand": "McLaren",
+      "car_model": "570S",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10005",
+    "firstName": "Brittany",
+    "lastName": "Jones",
+    "incidentDate": "2024-09-19",
+    "claimDate": "2024-09-29",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Reject Claim",
+      "confidence": 95,
+      "ML Reasoning": "The model assigned a confidence score of 95 due to several factors. The amount claimed exceeds the maximum coverage amount, which could indicate a potential discrepancy. Additionally, the insured has a history of motoring offenses and accidents in the past 5 years, which increases the risk profile. The absence of prior claims might have slightly mitigated the score. The damage type is not applicable here as the claim is for theft.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "SW1A 1AA",
+    "full_details": {
+      "claimNumber": "C10005",
+      "firstName": "Brittany",
+      "lastName": "Jones",
+      "incidentDate": "2024-09-19",
+      "claimDate": "2024-09-29",
+      "accessorNotes": "",
+      "vehicle_registration_number": "QY81-SSV",
+      "policy_id": "MPI1000459",
+      "policy_issue_date": "2024-09-14",
+      "dataOS": {
+        "suggest": "Reject Claim",
+        "confidence": 95,
+        "ML Reasoning": "The model assigned a confidence score of 95 due to several factors. The amount claimed exceeds the maximum coverage amount, which could indicate a potential discrepancy. Additionally, the insured has a history of motoring offenses and accidents in the past 5 years, which increases the risk profile. The absence of prior claims might have slightly mitigated the score. The damage type is not applicable here as the claim is for theft.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "SW1A 1AA",
+      "marital_status": "Single",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 3882.51,
+      "estimated_value_of_car": 3882.51,
+      "Claim_amount": 4500.0,
+      "car_brand": "Vauxhall",
+      "car_model": "Astra",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10006",
+    "firstName": "Manoj",
+    "lastName": "V",
+    "incidentDate": "2024-10-16",
+    "claimDate": "2024-12-30",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 88,
+      "ML Reasoning": "The model assigned a confidence score of 87.22999999999999 likely due to the fact that the claim is for damage, yet no specific damage type is noted. Additionally, the claimant has a clean record with no prior claims, accidents, or motoring offenses in the past 5 years, which could lower the confidence score. However, the amount claimed is very close to the maximum coverage amount, which could raise suspicion. The amount paid is also significantly less than the amount claimed, which may factor into the score. The annual mileage estimate is relatively average and likely did not significantly impact the score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "L1 1AA",
+    "full_details": {
+      "claimNumber": "C10006",
+      "firstName": "Manoj",
+      "lastName": "V",
+      "incidentDate": "2024-10-16",
+      "claimDate": "2024-12-30",
+      "accessorNotes": "",
+      "vehicle_registration_number": "ON94-GYL",
+      "policy_id": "MPI1000460",
+      "policy_issue_date": "2024-10-11",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 88,
+        "ML Reasoning": "The model assigned a confidence score of 87.22999999999999 likely due to the fact that the claim is for damage, yet no specific damage type is noted. Additionally, the claimant has a clean record with no prior claims, accidents, or motoring offenses in the past 5 years, which could lower the confidence score. However, the amount claimed is very close to the maximum coverage amount, which could raise suspicion. The amount paid is also significantly less than the amount claimed, which may factor into the score. The annual mileage estimate is relatively average and likely did not significantly impact the score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "L1 1AA",
+      "marital_status": "Divorced",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 12484.43,
+      "estimated_value_of_car": 12484.43,
+      "Claim_amount": 12000.0,
+      "car_brand": "Vauxhall",
+      "car_model": "Astra",
+      "damage_type": "Not Specified"
+    }
+  },
+  {
+    "claimNumber": "C10007",
+    "firstName": "Lea",
+    "lastName": "Naamani",
+    "incidentDate": "2024-10-31",
+    "claimDate": "2024-11-02",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Reject Claim",
+      "confidence": 92,
+      "ML Reasoning": "The model has likely assigned the confidence score of 92.2 based on a few factors. The claim amount is below the maximum coverage amount, meaning the claim is within the policy's limits. The lack of prior claims or accidents in the last 5 years is also a positive factor, suggesting the policyholder is generally careful. However, the presence of motoring offences in the last 5 years is a negative factor that could indicate risky behavior. These factors combined with the high annual mileage estimate, which increases the chance of an accident, probably resulted in the intermediate confidence score. The 'Not Applicable' damage type could either mean the model didn't have enough information about the damage or it was irrelevant to the claim, which might have also influenced the score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "M1 1AE",
+    "full_details": {
+      "claimNumber": "C10007",
+      "firstName": "Lea",
+      "lastName": "Naamani",
+      "incidentDate": "2024-10-31",
+      "claimDate": "2024-11-02",
+      "accessorNotes": "",
+      "vehicle_registration_number": "BJ10-XHK",
+      "policy_id": "MPI1000461",
+      "policy_issue_date": "2024-10-26",
+      "dataOS": {
+        "suggest": "Reject Claim",
+        "confidence": 92,
+        "ML Reasoning": "The model has likely assigned the confidence score of 92.2 based on a few factors. The claim amount is below the maximum coverage amount, meaning the claim is within the policy's limits. The lack of prior claims or accidents in the last 5 years is also a positive factor, suggesting the policyholder is generally careful. However, the presence of motoring offences in the last 5 years is a negative factor that could indicate risky behavior. These factors combined with the high annual mileage estimate, which increases the chance of an accident, probably resulted in the intermediate confidence score. The 'Not Applicable' damage type could either mean the model didn't have enough information about the damage or it was irrelevant to the claim, which might have also influenced the score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "M1 1AE",
+      "marital_status": "Divorced",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 13145.72,
+      "estimated_value_of_car": 13145.72,
+      "Claim_amount": 5000.0,
+      "car_brand": "Vauxhall",
+      "car_model": "Astra",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10008",
+    "firstName": "Azfer",
+    "lastName": "Ahmed",
+    "incidentDate": "2024-11-16",
+    "claimDate": "2024-11-20",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 88,
+      "ML Reasoning": "The confidence score of 87.74000000000001 assigned by the model can be attributed to several factors. The claim amount is relatively close to the maximum coverage amount, which could raise suspicion, but the fact that there were no prior claims in the last 5 years could counterbalance this. However, the presence of prior accidents in the last 5 years could increase the risk perception, while the lack of motoring offences in the same period could decrease it. The high annual mileage might also contribute to a moderate risk perception. The claim type being theft with no applicable damage could also influence the score. Therefore, the score reflects a combination of these risk factors.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "SW1A 1AA",
+    "full_details": {
+      "claimNumber": "C10008",
+      "firstName": "Azfer",
+      "lastName": "Ahmed",
+      "incidentDate": "2024-11-16",
+      "claimDate": "2024-11-20",
+      "accessorNotes": "",
+      "vehicle_registration_number": "BJ10-XHK",
+      "policy_id": "MPI1000462",
+      "policy_issue_date": "2024-11-11",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 88,
+        "ML Reasoning": "The confidence score of 87.74000000000001 assigned by the model can be attributed to several factors. The claim amount is relatively close to the maximum coverage amount, which could raise suspicion, but the fact that there were no prior claims in the last 5 years could counterbalance this. However, the presence of prior accidents in the last 5 years could increase the risk perception, while the lack of motoring offences in the same period could decrease it. The high annual mileage might also contribute to a moderate risk perception. The claim type being theft with no applicable damage could also influence the score. Therefore, the score reflects a combination of these risk factors.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "SW1A 1AA",
+      "marital_status": "Divorced",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 13145.72,
+      "estimated_value_of_car": 13145.72,
+      "Claim_amount": 13000.0,
+      "car_brand": "Vauxhall",
+      "car_model": "Astra",
+      "damage_type": "Not Specified"
+    }
+  },
+  {
+    "claimNumber": "C10009",
+    "firstName": "Yiu Fai",
+    "lastName": "Lau",
+    "incidentDate": "2024-11-19",
+    "claimDate": "2024-11-27",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 87,
+      "ML Reasoning": "The model assigned a confidence score of 87 primarily due to several factors. Firstly, the claim amount is within the maximum coverage amount, which increases the likelihood of the claim being valid. Secondly, the absence of prior claims and accidents in the last 5 years lends credibility to the claimant. However, the presence of motoring offences in the last 5 years might have raised some concerns, thereby reducing the confidence score. ",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "NG1 1AA",
+    "full_details": {
+      "claimNumber": "C10009",
+      "firstName": "Yiu Fai",
+      "lastName": "Lau",
+      "incidentDate": "2024-11-19",
+      "claimDate": "2024-11-27",
+      "accessorNotes": "",
+      "vehicle_registration_number": "RV23-LWR",
+      "policy_id": "MPI1000463",
+      "policy_issue_date": "2024-11-14",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 87,
+        "ML Reasoning": "The model assigned a confidence score of 87 primarily due to several factors. Firstly, the claim amount is within the maximum coverage amount, which increases the likelihood of the claim being valid. Secondly, the absence of prior claims and accidents in the last 5 years lends credibility to the claimant. However, the presence of motoring offences in the last 5 years might have raised some concerns, thereby reducing the confidence score. ",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "NG1 1AA",
+      "marital_status": "Married",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 8803.5,
+      "estimated_value_of_car": 8803.5,
+      "Claim_amount": 4000.0,
+      "car_brand": "Bentley",
+      "car_model": "Bentayga",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10010",
+    "firstName": "Tamanna",
+    "lastName": "Tavi",
+    "incidentDate": "2024-12-06",
+    "claimDate": "2024-12-25",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 95,
+      "ML Reasoning": "The confidence score of 95 is likely due to a combination of factors. Firstly, the claim amount is significantly less than the maximum coverage amount, which may increase the model's confidence. However, the presence of prior claims and accidents in the last 5 years could reduce the score as they indicate a higher risk profile. The lack of motoring offenses in the last 5 years could be neutral factors. The model might also consider the annual mileage estimate, with lower mileage possibly increasing the confidence score as it suggests less road exposure and therefore lower risk.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "M1 1AE",
+    "full_details": {
+      "claimNumber": "C10010",
+      "firstName": "Tamanna",
+      "lastName": "Tavi",
+      "incidentDate": "2024-12-06",
+      "claimDate": "2024-12-25",
+      "accessorNotes": "",
+      "vehicle_registration_number": "LJ81-UJJ",
+      "policy_id": "MPI1000464",
+      "policy_issue_date": "2024-12-01",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 95,
+        "ML Reasoning": "The confidence score of 95 is likely due to a combination of factors. Firstly, the claim amount is significantly less than the maximum coverage amount, which may increase the model's confidence. However, the presence of prior claims and accidents in the last 5 years could reduce the score as they indicate a higher risk profile. The lack of motoring offenses in the last 5 years could be neutral factors. The model might also consider the annual mileage estimate, with lower mileage possibly increasing the confidence score as it suggests less road exposure and therefore lower risk.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "M1 1AE",
+      "marital_status": "Divorced",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 24118.21,
+      "estimated_value_of_car": 24118.21,
+      "Claim_amount": 6000.0,
+      "car_brand": "Bentley",
+      "car_model": "Bentayga",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10011",
+    "firstName": "Hamad",
+    "lastName": "Ali",
+    "incidentDate": "2024-12-11",
+    "claimDate": "2024-12-19",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Reject Claim",
+      "confidence": 90,
+      "ML Reasoning": "The model might have assigned the confidence score of 84 because of several factors.The policyholder has had prior claims within the last 5 years which could indicate higher risk, even though there were no prior accidents or motoring offenses. Lastly, the 'Damage Type' is listed as 'Not Applicable' for an accident claim, and there is lack of sufficient supporting documents which could raise concerns about the validity of the claim. The high annual mileage may also suggest more risk exposure. The claim amount is exceeding the max coverage amount.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "SW1A 1AA",
+    "full_details": {
+      "claimNumber": "C10011",
+      "firstName": "Hamad",
+      "lastName": "Ali",
+      "incidentDate": "2024-12-11",
+      "claimDate": "2024-12-19",
+      "accessorNotes": "",
+      "vehicle_registration_number": "KM20-RQV",
+      "policy_id": "MPI1000465",
+      "policy_issue_date": "2024-12-06",
+      "dataOS": {
+        "suggest": "Reject Claim",
+        "confidence": 90,
+        "ML Reasoning": "The model might have assigned the confidence score of 84 because of several factors.The policyholder has had prior claims within the last 5 years which could indicate higher risk, even though there were no prior accidents or motoring offenses. Lastly, the 'Damage Type' is listed as 'Not Applicable' for an accident claim, and there is lack of sufficient supporting documents which could raise concerns about the validity of the claim. The high annual mileage may also suggest more risk exposure. The claim amount is exceeding the max coverage amount.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "SW1A 1AA",
+      "marital_status": "Single",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 140218.17,
+      "estimated_value_of_car": 140218.17,
+      "Claim_amount": 250000.0,
+      "car_brand": "Bentley",
+      "car_model": "Bentayga",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10012",
+    "firstName": "Bethany",
+    "lastName": "Madden",
+    "incidentDate": "2024-12-15",
+    "claimDate": "2025-01-09",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 84,
+      "ML Reasoning": "The model assigned a confidence score of 84 likely due to a combination of factors. The amount claimed is significantly less than the maximum coverage amount, which generally indicates a lower risk claim. However, the presence of prior claims and accidents in the last 5 years increase the risk associated with the claim. The absence of motoring offences and a damage type not applicable to a fire claim might have also contributed to the score. The annual mileage estimate is also quite high, which could indicate a higher risk of incident, but it's not necessarily related to a fire claim. Therefore, the model might have considered all these factors, assigning a relatively medium confidence score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "L1 1AA",
+    "full_details": {
+      "claimNumber": "C10012",
+      "firstName": "Bethany",
+      "lastName": "Madden",
+      "incidentDate": "2024-12-15",
+      "claimDate": "2025-01-09",
+      "accessorNotes": "",
+      "vehicle_registration_number": "BV47-CYJ",
+      "policy_id": "MPI1000466",
+      "policy_issue_date": "2024-12-10",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 84,
+        "ML Reasoning": "The model assigned a confidence score of 84 likely due to a combination of factors. The amount claimed is significantly less than the maximum coverage amount, which generally indicates a lower risk claim. However, the presence of prior claims and accidents in the last 5 years increase the risk associated with the claim. The absence of motoring offences and a damage type not applicable to a fire claim might have also contributed to the score. The annual mileage estimate is also quite high, which could indicate a higher risk of incident, but it's not necessarily related to a fire claim. Therefore, the model might have considered all these factors, assigning a relatively medium confidence score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "L1 1AA",
+      "marital_status": "Single",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 98179.02,
+      "estimated_value_of_car": 98179.02,
+      "Claim_amount": 20000.0,
+      "car_brand": "Bentley",
+      "car_model": "Bentayga",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10013",
+    "firstName": "Frank",
+    "lastName": "Stewart",
+    "incidentDate": "2024-12-20",
+    "claimDate": "2025-01-04",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 95,
+      "ML Reasoning": "The model likely assigned a confidence score of 95 due to a combination of factors. The claim amount was significantly below the max coverage amount, which could point towards a lower risk assessment. The absence of prior claims in the past 5 years also contributes to a lower risk profile. The 'total loss' claim type and the high annual mileage could be factors that increase the risk assessment, hence resulting in the given confidence score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "CF10 1AA",
+    "full_details": {
+      "claimNumber": "C10013",
+      "firstName": "Frank",
+      "lastName": "Stewart",
+      "incidentDate": "2024-12-20",
+      "claimDate": "2025-01-04",
+      "accessorNotes": "",
+      "vehicle_registration_number": "BV47-CYJ",
+      "policy_id": "MPI1000467",
+      "policy_issue_date": "2024-12-15",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 95,
+        "ML Reasoning": "The model likely assigned a confidence score of 95 due to a combination of factors. The claim amount was significantly below the max coverage amount, which could point towards a lower risk assessment. The absence of prior claims in the past 5 years also contributes to a lower risk profile. The 'total loss' claim type and the high annual mileage could be factors that increase the risk assessment, hence resulting in the given confidence score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "CF10 1AA",
+      "marital_status": "Single",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 98179.02,
+      "estimated_value_of_car": 98179.02,
+      "Claim_amount": 45000.0,
+      "car_brand": "Bentley",
+      "car_model": "Bentayga",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10014",
+    "firstName": "Hailey",
+    "lastName": "Po",
+    "incidentDate": "2025-03-29",
+    "claimDate": "2025-04-04",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 95,
+      "ML Reasoning": "The model probably assigned a confidence score of 95 due to the lack of prior claims or accidents in the last 5 years, which tends to lower the risk profile. However, the presence of motoring offences in the same period could have reduced the score. Additionally, the claim amount is well within the max coverage amount, which favors the claimant. The annual mileage estimate also doesn't seem excessive, which could also positively impact the confidence score. The nature of the claim being theft, with no associated damage, may also influence the score but to a lesser extent.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "OX1 1AA",
+    "full_details": {
+      "claimNumber": "C10014",
+      "firstName": "Hailey",
+      "lastName": "Po",
+      "incidentDate": "2025-03-29",
+      "claimDate": "2025-04-04",
+      "accessorNotes": "",
+      "vehicle_registration_number": "GK44-ZJK",
+      "policy_id": "MPI1000468",
+      "policy_issue_date": "2025-03-24",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 95,
+        "ML Reasoning": "The model probably assigned a confidence score of 95 due to the lack of prior claims or accidents in the last 5 years, which tends to lower the risk profile. However, the presence of motoring offences in the same period could have reduced the score. Additionally, the claim amount is well within the max coverage amount, which favors the claimant. The annual mileage estimate also doesn't seem excessive, which could also positively impact the confidence score. The nature of the claim being theft, with no associated damage, may also influence the score but to a lesser extent.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "OX1 1AA",
+      "marital_status": "Married",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 37567.52,
+      "estimated_value_of_car": 37567.52,
+      "Claim_amount": 18500.0,
+      "car_brand": "Bentley",
+      "car_model": "Bentayga",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10015",
+    "firstName": "Kirsten",
+    "lastName": "Gonzalez",
+    "incidentDate": "2025-10-28",
+    "claimDate": "2025-11-18",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 91,
+      "ML Reasoning": "The model's confidence score of 90.83 is likely influenced by several factors. The claim amount of 2944.46 is well within the maximum coverage amount of 7042.18, suggesting that the claim is not exaggerated. Furthermore, the absence of prior claims, accidents, or motoring offences in the last five years indicates that the claimant has a clean driving record, which could positively influence the score. However, the confidence score is not very high, possibly due to the fact that the damage type is not applicable, which might make it harder to verify the legitimacy of the claim, thus lowering the confidence level.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "SW1A 1AA",
+    "full_details": {
+      "claimNumber": "C10015",
+      "firstName": "Kirsten",
+      "lastName": "Gonzalez",
+      "incidentDate": "2025-10-28",
+      "claimDate": "2025-11-18",
+      "accessorNotes": "",
+      "vehicle_registration_number": "QG80-AJR",
+      "policy_id": "MPI1000469",
+      "policy_issue_date": "2025-10-23",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 91,
+        "ML Reasoning": "The model's confidence score of 90.83 is likely influenced by several factors. The claim amount of 2944.46 is well within the maximum coverage amount of 7042.18, suggesting that the claim is not exaggerated. Furthermore, the absence of prior claims, accidents, or motoring offences in the last five years indicates that the claimant has a clean driving record, which could positively influence the score. However, the confidence score is not very high, possibly due to the fact that the damage type is not applicable, which might make it harder to verify the legitimacy of the claim, thus lowering the confidence level.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "SW1A 1AA",
+      "marital_status": "Single",
+      "car_modified": false,
+      "modification_type": null,
+      "max_coverage_amount": 7042.0,
+      "estimated_value_of_car": 7042.0,
+      "Claim_amount": 2944.0,
+      "car_brand": "Mini",
+      "car_model": "Clubman",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10576",
+    "firstName": "Brenda",
+    "lastName": "Roman",
+    "incidentDate": "2024-09-12",
+    "claimDate": "2024-10-12",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 95,
+      "ML Reasoning": "The confidence score of 95 assigned by the model is likely due to several factors. First, the actual claim amount is relatively small compared to the maximum coverage amount. Additionally, the claimant has no history of prior claims, accidents, or motoring offences in the last five years, which suggests a lower risk profile. However, the high annual mileage could increase the probability of incidents, which may have slightly reduced the confidence score. The 'Not Applicable' for Damage Type may also have affected the score as it could indicate a lack of information.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "BS1 1AA",
+    "full_details": {
+      "claimNumber": "C10576",
+      "firstName": "Brenda",
+      "lastName": "Roman",
+      "incidentDate": "2024-09-12",
+      "claimDate": "2024-10-12",
+      "accessorNotes": "",
+      "vehicle_registration_number": "UJ44-VVQ",
+      "policy_id": "MPI1000470",
+      "policy_issue_date": "2024-09-07",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 95,
+        "ML Reasoning": "The confidence score of 95 assigned by the model is likely due to several factors. First, the actual claim amount is relatively small compared to the maximum coverage amount. Additionally, the claimant has no history of prior claims, accidents, or motoring offences in the last five years, which suggests a lower risk profile. However, the high annual mileage could increase the probability of incidents, which may have slightly reduced the confidence score. The 'Not Applicable' for Damage Type may also have affected the score as it could indicate a lack of information.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "BS1 1AA",
+      "marital_status": "Married",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 143628.06,
+      "estimated_value_of_car": 143628.06,
+      "Claim_amount": 55000.0,
+      "car_brand": "McLaren",
+      "car_model": "570S",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10344",
+    "firstName": "Ludovic",
+    "lastName": "Georges",
+    "incidentDate": "2024-08-05",
+    "claimDate": "2024-08-17",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 85,
+      "ML Reasoning": "The model's confidence score of 85.75999999999999 likely reflects the absence of prior claims, accidents, or motoring offenses in the last 5 years, which suggests lower risk. However, the score may be tempered by the high claim amount, which is close to the maximum coverage amount, and the high annual mileage estimate, which could indicate a higher likelihood of future accidents. The fact that the claim was for a total loss might also have influenced the score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "CF10 1AA",
+    "full_details": {
+      "claimNumber": "C10344",
+      "firstName": "Ludovic",
+      "lastName": "Georges",
+      "incidentDate": "2024-08-05",
+      "claimDate": "2024-08-17",
+      "accessorNotes": "",
+      "vehicle_registration_number": "XT71-HFQ",
+      "policy_id": "MPI1000471",
+      "policy_issue_date": "2024-07-31",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 85,
+        "ML Reasoning": "The model's confidence score of 85.75999999999999 likely reflects the absence of prior claims, accidents, or motoring offenses in the last 5 years, which suggests lower risk. However, the score may be tempered by the high claim amount, which is close to the maximum coverage amount, and the high annual mileage estimate, which could indicate a higher likelihood of future accidents. The fact that the claim was for a total loss might also have influenced the score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "CF10 1AA",
+      "marital_status": "Divorced",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 143436.46,
+      "estimated_value_of_car": 143436.46,
+      "Claim_amount": 120000.0,
+      "car_brand": "McLaren",
+      "car_model": "570S",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10515",
+    "firstName": "Julien",
+    "lastName": "Shah",
+    "incidentDate": "2024-04-02",
+    "claimDate": "2024-04-05",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 95,
+      "ML Reasoning": "The model assigned a confidence score of 95 based on a few factors: the claim amount is close to the maximum coverage amount, which may raise suspicion, but there is no prior history of claims, accidents, or motoring offences in the last 5 years, which reduces the likelihood of fraudulent activity. Additionally, the annual mileage estimate is reasonable and aligns with the average annual mileage, further supporting the legitimacy of the claim. However, the damage type being \"Not Applicable\" for an accident claim might have caused some uncertainty, reducing the confidence score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "SW1A 1AA",
+    "full_details": {
+      "claimNumber": "C10515",
+      "firstName": "Julien",
+      "lastName": "Shah",
+      "incidentDate": "2024-04-02",
+      "claimDate": "2024-04-05",
+      "accessorNotes": "",
+      "vehicle_registration_number": "XT71-HFQ",
+      "policy_id": "MPI1000472",
+      "policy_issue_date": "2024-03-28",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 95,
+        "ML Reasoning": "The model assigned a confidence score of 95 based on a few factors: the claim amount is close to the maximum coverage amount, which may raise suspicion, but there is no prior history of claims, accidents, or motoring offences in the last 5 years, which reduces the likelihood of fraudulent activity. Additionally, the annual mileage estimate is reasonable and aligns with the average annual mileage, further supporting the legitimacy of the claim. However, the damage type being \"Not Applicable\" for an accident claim might have caused some uncertainty, reducing the confidence score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "SW1A 1AA",
+      "marital_status": "Divorced",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 143436.46,
+      "estimated_value_of_car": 143436.46,
+      "Claim_amount": 175000.0,
+      "car_brand": "McLaren",
+      "car_model": "570S",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10586",
+    "firstName": "Lauren",
+    "lastName": "Patel",
+    "incidentDate": "2024-12-08",
+    "claimDate": "2024-12-30",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 95,
+      "ML Reasoning": "The assigned confidence score of 95 seems to be a result of a combination of factors. The claim amount requested is well within the max coverage amount, indicating the claim is not excessive. However, the claimant has a history of motoring offences in the last 5 years, which might have negatively affected the score. The absence of prior claims or accidents gives a positive impact. The damage type stated as 'Not Applicable' for an accident claim might be confusing and could have influenced the score. Finally, the high annual mileage estimate might suggest higher risk, potentially affecting the score as well.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "L1 1AA",
+    "full_details": {
+      "claimNumber": "C10586",
+      "firstName": "Lauren",
+      "lastName": "Patel",
+      "incidentDate": "2024-12-08",
+      "claimDate": "2024-12-30",
+      "accessorNotes": "",
+      "vehicle_registration_number": "TT92-DVG",
+      "policy_id": "MPI1000473",
+      "policy_issue_date": "2024-12-03",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 95,
+        "ML Reasoning": "The assigned confidence score of 95 seems to be a result of a combination of factors. The claim amount requested is well within the max coverage amount, indicating the claim is not excessive. However, the claimant has a history of motoring offences in the last 5 years, which might have negatively affected the score. The absence of prior claims or accidents gives a positive impact. The damage type stated as 'Not Applicable' for an accident claim might be confusing and could have influenced the score. Finally, the high annual mileage estimate might suggest higher risk, potentially affecting the score as well.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "L1 1AA",
+      "marital_status": "Single",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 7510.83,
+      "estimated_value_of_car": 7510.83,
+      "Claim_amount": 3400.0,
+      "car_brand": "Vauxhall",
+      "car_model": "Astra",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10197",
+    "firstName": "Shaheen",
+    "lastName": "Sayed",
+    "incidentDate": "2024-11-06",
+    "claimDate": "2024-11-20",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 92,
+      "ML Reasoning": "The model confidence score of 92.53 likely reflects the balance between several factors. The claim amount is significantly less than the maximum coverage amount, which could increase the likelihood of the claim being approved. However, the presence of prior claims in the last 5 years could raise suspicions about the claimant's driving habits and care for the vehicle, potentially reducing the score. The lack of specified damage type may also contribute to the lower confidence score, as it provides less information to understand or validate the claim. The absence of prior accidents and motoring offenses in the last 5 years, along with a reasonable annual mileage estimate, may have positively influenced the score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "CB1 0AA",
+    "full_details": {
+      "claimNumber": "C10197",
+      "firstName": "Shaheen",
+      "lastName": "Sayed",
+      "incidentDate": "2024-11-06",
+      "claimDate": "2024-11-20",
+      "accessorNotes": "",
+      "vehicle_registration_number": "TT92-DVG",
+      "policy_id": "MPI1000474",
+      "policy_issue_date": "2024-11-01",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 92,
+        "ML Reasoning": "The model confidence score of 92.53 likely reflects the balance between several factors. The claim amount is significantly less than the maximum coverage amount, which could increase the likelihood of the claim being approved. However, the presence of prior claims in the last 5 years could raise suspicions about the claimant's driving habits and care for the vehicle, potentially reducing the score. The lack of specified damage type may also contribute to the lower confidence score, as it provides less information to understand or validate the claim. The absence of prior accidents and motoring offenses in the last 5 years, along with a reasonable annual mileage estimate, may have positively influenced the score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "CB1 0AA",
+      "marital_status": "Single",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 7510.83,
+      "estimated_value_of_car": 7510.83,
+      "Claim_amount": 1580.0,
+      "car_brand": "Vauxhall",
+      "car_model": "Astra",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10062",
+    "firstName": "Paul",
+    "lastName": "Berg",
+    "incidentDate": "2024-02-07",
+    "claimDate": "2024-02-22",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 94,
+      "ML Reasoning": "The model assigned a confidence score of 94.38 likely due to a few risk factors associated with the claim. Though the claimed amount is well within the max coverage amount, the fact that the claimant has had prior accidents and motoring offences in the last five years increases the risk factor. The annual mileage estimate is relatively low, which could have a slight mitigating effect on the score. However, the absence of a specified damage type could lead to uncertainties, potentially impacting the confidence score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "NE1 1EE",
+    "full_details": {
+      "claimNumber": "C10062",
+      "firstName": "Paul",
+      "lastName": "Berg",
+      "incidentDate": "2024-02-07",
+      "claimDate": "2024-02-22",
+      "accessorNotes": "",
+      "vehicle_registration_number": "ZF52-FWT",
+      "policy_id": "MPI1000475",
+      "policy_issue_date": "2024-02-02",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 94,
+        "ML Reasoning": "The model assigned a confidence score of 94.38 likely due to a few risk factors associated with the claim. Though the claimed amount is well within the max coverage amount, the fact that the claimant has had prior accidents and motoring offences in the last five years increases the risk factor. The annual mileage estimate is relatively low, which could have a slight mitigating effect on the score. However, the absence of a specified damage type could lead to uncertainties, potentially impacting the confidence score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "NE1 1EE",
+      "marital_status": "Married",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 5249.64,
+      "estimated_value_of_car": 5249.64,
+      "Claim_amount": 1200.0,
+      "car_brand": "Vauxhall",
+      "car_model": "Astra",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10249",
+    "firstName": "Crystal",
+    "lastName": "Kaity",
+    "incidentDate": "2024-05-08",
+    "claimDate": "2024-05-21",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 86,
+      "ML Reasoning": "The model assigned a confidence score of 86.93 considering several factors. The claim amount was within the max coverage amount, and there were no prior claims or accidents in the past five years, which reduces the risk profile. However, the fact that there was a motoring offense in the past five years could have increased the risk perception. Additionally, the damage type being not applicable might have caused some uncertainty for the model, impacting the score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "SW1A 1AA",
+    "full_details": {
+      "claimNumber": "C10249",
+      "firstName": "Crystal",
+      "lastName": "Kaity",
+      "incidentDate": "2024-05-08",
+      "claimDate": "2024-05-21",
+      "accessorNotes": "",
+      "vehicle_registration_number": "ZF52-FWT",
+      "policy_id": "MPI1000476",
+      "policy_issue_date": "2024-05-03",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 86,
+        "ML Reasoning": "The model assigned a confidence score of 86.93 considering several factors. The claim amount was within the max coverage amount, and there were no prior claims or accidents in the past five years, which reduces the risk profile. However, the fact that there was a motoring offense in the past five years could have increased the risk perception. Additionally, the damage type being not applicable might have caused some uncertainty for the model, impacting the score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "SW1A 1AA",
+      "marital_status": "Married",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 5249.64,
+      "estimated_value_of_car": 5249.64,
+      "Claim_amount": 1100.0,
+      "car_brand": "Vauxhall",
+      "car_model": "Astra",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10302",
+    "firstName": "Kimberly",
+    "lastName": "Mejia",
+    "incidentDate": "2024-08-09",
+    "claimDate": "2024-08-18",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 92,
+      "ML Reasoning": "The model's confidence score of 92.87 appears to be influenced by the lack of prior claims, accidents, or motoring offences in the past 5 years, which typically indicate a lower risk profile. However, the claim type being theft, which is often harder to verify compared to physical damages, and the significant claim amount relative to the maximum coverage could have increased uncertainty, thereby reducing the confidence score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "S1 1AA",
+    "full_details": {
+      "claimNumber": "C10302",
+      "firstName": "Kimberly",
+      "lastName": "Mejia",
+      "incidentDate": "2024-08-09",
+      "claimDate": "2024-08-18",
+      "accessorNotes": "",
+      "vehicle_registration_number": "QJ84-CLD",
+      "policy_id": "MPI1000477",
+      "policy_issue_date": "2024-08-04",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 92,
+        "ML Reasoning": "The model's confidence score of 92.87 appears to be influenced by the lack of prior claims, accidents, or motoring offences in the past 5 years, which typically indicate a lower risk profile. However, the claim type being theft, which is often harder to verify compared to physical damages, and the significant claim amount relative to the maximum coverage could have increased uncertainty, thereby reducing the confidence score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "S1 1AA",
+      "marital_status": "Single",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 13239.64,
+      "estimated_value_of_car": 13239.64,
+      "Claim_amount": 20000.0,
+      "car_brand": "Vauxhall",
+      "car_model": "Astra",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10126",
+    "firstName": "Harleen",
+    "lastName": "Chadha",
+    "incidentDate": "2024-11-10",
+    "claimDate": "2024-11-26",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 95,
+      "ML Reasoning": "The model likely assigned a confidence score of 95 due to a combination of factors such as the absence of prior claims, accidents, or motoring offenses in the past 5 years. The claim type being theft with no applicable damage type and the amount claimed vs. paid also factor into the score. Additionally, the claim amount is significantly low compared to the max coverage amount, which could indicate a lower risk profile. The high annual mileage estimate might have slightly increased the score due to increased exposure to risk.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "SW1A 1AA",
+    "full_details": {
+      "claimNumber": "C10126",
+      "firstName": "Harleen",
+      "lastName": "Chadha",
+      "incidentDate": "2024-11-10",
+      "claimDate": "2024-11-26",
+      "accessorNotes": "",
+      "vehicle_registration_number": "NC48-FGV",
+      "policy_id": "MPI1000478",
+      "policy_issue_date": "2024-11-05",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 95,
+        "ML Reasoning": "The model likely assigned a confidence score of 95 due to a combination of factors such as the absence of prior claims, accidents, or motoring offenses in the past 5 years. The claim type being theft with no applicable damage type and the amount claimed vs. paid also factor into the score. Additionally, the claim amount is significantly low compared to the max coverage amount, which could indicate a lower risk profile. The high annual mileage estimate might have slightly increased the score due to increased exposure to risk.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "SW1A 1AA",
+      "marital_status": "Married",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 7761.91,
+      "estimated_value_of_car": 7761.91,
+      "Claim_amount": 950.0,
+      "car_brand": "Bentley",
+      "car_model": "Bentayga",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10695",
+    "firstName": "Andrew",
+    "lastName": "Hernandez",
+    "incidentDate": "2024-12-11",
+    "claimDate": "2024-12-13",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 90,
+      "ML Reasoning": "The model assigned a confidence score of 90.28999999999999 likely because the claim details show no prior claims, accidents, or motoring offences in the last 5 years, which reduces the likelihood of fraud. However, the claim amount is fairly high relative to the annual mileage estimate, which might raise some suspicion and lower the confidence score. Additionally, the damage type being listed as \"not applicable\" for an accident claim could also be a factor contributing to the lower confidence score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "SW1A 1AA",
+    "full_details": {
+      "claimNumber": "C10695",
+      "firstName": "Andrew",
+      "lastName": "Hernandez",
+      "incidentDate": "2024-12-11",
+      "claimDate": "2024-12-13",
+      "accessorNotes": "",
+      "vehicle_registration_number": "TA83-YVA",
+      "policy_id": "MPI1000479",
+      "policy_issue_date": "2024-12-06",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 90,
+        "ML Reasoning": "The model assigned a confidence score of 90.28999999999999 likely because the claim details show no prior claims, accidents, or motoring offences in the last 5 years, which reduces the likelihood of fraud. However, the claim amount is fairly high relative to the annual mileage estimate, which might raise some suspicion and lower the confidence score. Additionally, the damage type being listed as \"not applicable\" for an accident claim could also be a factor contributing to the lower confidence score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "SW1A 1AA",
+      "marital_status": "Single",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 26186.37,
+      "estimated_value_of_car": 26186.37,
+      "Claim_amount": 45000.0,
+      "car_brand": "Mini",
+      "car_model": "Clubman",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10472",
+    "firstName": "Emily",
+    "lastName": "Bishop",
+    "incidentDate": "2024-07-12",
+    "claimDate": "2024-09-25",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 95,
+      "ML Reasoning": "The model likely assigned a confidence score of 95 due to a combination of factors. The claim amount was significantly below the max coverage amount, which could point towards a lower risk assessment. The absence of prior claims in the past 5 years also contributes to a lower risk profile. However, the presence of a prior accident in the last 5 years likely increased the risk score, as it indicates a higher likelihood of future claims. The 'total loss' claim type and the high annual mileage could also be factors that increase the risk assessment, hence resulting in the given confidence score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "BT1 1AA",
+    "full_details": {
+      "claimNumber": "C10472",
+      "firstName": "Emily",
+      "lastName": "Bishop",
+      "incidentDate": "2024-07-12",
+      "claimDate": "2024-09-25",
+      "accessorNotes": "",
+      "vehicle_registration_number": "SH57-NKB",
+      "policy_id": "MPI1000480",
+      "policy_issue_date": "2024-07-07",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 95,
+        "ML Reasoning": "The model likely assigned a confidence score of 95 due to a combination of factors. The claim amount was significantly below the max coverage amount, which could point towards a lower risk assessment. The absence of prior claims in the past 5 years also contributes to a lower risk profile. However, the presence of a prior accident in the last 5 years likely increased the risk score, as it indicates a higher likelihood of future claims. The 'total loss' claim type and the high annual mileage could also be factors that increase the risk assessment, hence resulting in the given confidence score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "BT1 1AA",
+      "marital_status": "Single",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 90971.36,
+      "estimated_value_of_car": 90971.36,
+      "Claim_amount": 8200.0,
+      "car_brand": "Bentley",
+      "car_model": "Continental GT",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10319",
+    "firstName": "Melisa",
+    "lastName": "Naronha",
+    "incidentDate": "2024-06-13",
+    "claimDate": "2024-06-27",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 95,
+      "ML Reasoning": "The model assigned a confidence score of 95 to this motor insurance claim due to several factors. The claim amount versus the maximum coverage amount is relatively low, which decreases the likelihood of fraudulent activity. Furthermore, the claimant has a clean record with no prior claims, accidents, or motoring offenses in the past five years. The only ambiguity comes from the 'Not Applicable' damage type, which could have reduced the confidence score slightly. However, overall, the claim appears to be legitimate based on the claimant's driving history and the claim amount relative to the coverage amount.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "OX1 1AA",
+    "full_details": {
+      "claimNumber": "C10319",
+      "firstName": "Melisa",
+      "lastName": "Naronha",
+      "incidentDate": "2024-06-13",
+      "claimDate": "2024-06-27",
+      "accessorNotes": "",
+      "vehicle_registration_number": "KG96-JBY",
+      "policy_id": "MPI1000481",
+      "policy_issue_date": "2024-06-08",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 95,
+        "ML Reasoning": "The model assigned a confidence score of 95 to this motor insurance claim due to several factors. The claim amount versus the maximum coverage amount is relatively low, which decreases the likelihood of fraudulent activity. Furthermore, the claimant has a clean record with no prior claims, accidents, or motoring offenses in the past five years. The only ambiguity comes from the 'Not Applicable' damage type, which could have reduced the confidence score slightly. However, overall, the claim appears to be legitimate based on the claimant's driving history and the claim amount relative to the coverage amount.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "OX1 1AA",
+      "marital_status": "Married",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 146639.74,
+      "estimated_value_of_car": 146639.74,
+      "Claim_amount": 92000.0,
+      "car_brand": "Bentley",
+      "car_model": "Continental GT",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10107",
+    "firstName": "Elizabeth",
+    "lastName": "Ramos",
+    "incidentDate": "2024-08-14",
+    "claimDate": "2024-08-19",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Reject Claim",
+      "confidence": 95,
+      "ML Reasoning": "The model likely assigned a confidence score of 95 due to several factors. First, the claim amount of 40159.47 is significantly less than the max coverage amount of 102274.73, which indicates a lower risk. Additionally, the absence of prior claims, accidents, or motoring offences in the past 5 years suggests a good driving record, reducing the likelihood of fraudulent claims. The damage type being not applicable for a fire claim could be considered unusual but doesn't necessarily indicate fraud. The high annual mileage might slightly increase the risk of claims, but overall, the model seems to consider this claim relatively reliable.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "SW1A 1AA",
+    "full_details": {
+      "claimNumber": "C10107",
+      "firstName": "Elizabeth",
+      "lastName": "Ramos",
+      "incidentDate": "2024-08-14",
+      "claimDate": "2024-08-19",
+      "accessorNotes": "",
+      "vehicle_registration_number": "DX45-WMO",
+      "policy_id": "MPI1000482",
+      "policy_issue_date": "2024-08-09",
+      "dataOS": {
+        "suggest": "Reject Claim",
+        "confidence": 95,
+        "ML Reasoning": "The model likely assigned a confidence score of 95 due to several factors. First, the claim amount of 40159.47 is significantly less than the max coverage amount of 102274.73, which indicates a lower risk. Additionally, the absence of prior claims, accidents, or motoring offences in the past 5 years suggests a good driving record, reducing the likelihood of fraudulent claims. The damage type being not applicable for a fire claim could be considered unusual but doesn't necessarily indicate fraud. The high annual mileage might slightly increase the risk of claims, but overall, the model seems to consider this claim relatively reliable.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "SW1A 1AA",
+      "marital_status": "Single",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 102274.0,
+      "estimated_value_of_car": 102274.0,
+      "Claim_amount": 40159.0,
+      "car_brand": "Bentley",
+      "car_model": "Continental GT",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10175",
+    "firstName": "Sakina",
+    "lastName": "Mansawala",
+    "incidentDate": "2025-02-15",
+    "claimDate": "2025-02-22",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 95,
+      "ML Reasoning": "The model likely assigned a confidence score of 95 due to a combination of factors. The claim amount is well within the maximum coverage amount and the insurer has already paid close to the claimed amount, which lends credibility to the claim. However, the presence of prior claims and motoring offenses in the last 5 years might increase the perceived risk associated with the policyholder, reducing the confidence score. The absence of a specified damage type may also contribute to the lower confidence score as it can lead to ambiguity about the claim's legitimacy.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "BT1 1AA",
+    "full_details": {
+      "claimNumber": "C10175",
+      "firstName": "Sakina",
+      "lastName": "Mansawala",
+      "incidentDate": "2025-02-15",
+      "claimDate": "2025-02-22",
+      "accessorNotes": "",
+      "vehicle_registration_number": "VR57-YSL",
+      "policy_id": "MPI1000483",
+      "policy_issue_date": "2025-02-10",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 95,
+        "ML Reasoning": "The model likely assigned a confidence score of 95 due to a combination of factors. The claim amount is well within the maximum coverage amount and the insurer has already paid close to the claimed amount, which lends credibility to the claim. However, the presence of prior claims and motoring offenses in the last 5 years might increase the perceived risk associated with the policyholder, reducing the confidence score. The absence of a specified damage type may also contribute to the lower confidence score as it can lead to ambiguity about the claim's legitimacy.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "BT1 1AA",
+      "marital_status": "Single",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 1690.88,
+      "estimated_value_of_car": 1690.88,
+      "Claim_amount": 1200.0,
+      "car_brand": "Mini",
+      "car_model": "Countryman",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10013",
+    "firstName": "Selvi",
+    "lastName": "Cynthia",
+    "incidentDate": "2024-03-16",
+    "claimDate": "2024-03-24",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 91,
+      "ML Reasoning": "The model likely assigned a confidence score of 91.97999999999999 due to a combination of factors. The claim amount is significantly lower than the maximum coverage amount, which could increase the confidence score. However, the fact that the insured has made prior claims in the last 5 years possibly raised suspicion, decreasing the confidence score. The model may also have considered the absence of prior accidents or motoring offences, and the average annual mileage, but without knowing the specifics of the model, it's difficult to say how these factors affected the score. The absence of a specific damage type could also decrease the score as it may make the claim less verifiable.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "B1 1AA",
+    "full_details": {
+      "claimNumber": "C10013",
+      "firstName": "Selvi",
+      "lastName": "Cynthia",
+      "incidentDate": "2024-03-16",
+      "claimDate": "2024-03-24",
+      "accessorNotes": "",
+      "vehicle_registration_number": "GI95-APD",
+      "policy_id": "MPI1000484",
+      "policy_issue_date": "2024-03-11",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 91,
+        "ML Reasoning": "The model likely assigned a confidence score of 91.97999999999999 due to a combination of factors. The claim amount is significantly lower than the maximum coverage amount, which could increase the confidence score. However, the fact that the insured has made prior claims in the last 5 years possibly raised suspicion, decreasing the confidence score. The model may also have considered the absence of prior accidents or motoring offences, and the average annual mileage, but without knowing the specifics of the model, it's difficult to say how these factors affected the score. The absence of a specific damage type could also decrease the score as it may make the claim less verifiable.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "B1 1AA",
+      "marital_status": "Single",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 2618.93,
+      "estimated_value_of_car": 2618.93,
+      "Claim_amount": 500.0,
+      "car_brand": "Aston Martin",
+      "car_model": "DBS Superleggera",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10001",
+    "firstName": "Nipsy",
+    "lastName": "Jhamb",
+    "incidentDate": "2024-03-17",
+    "claimDate": "2024-03-30",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 86,
+      "ML Reasoning": "The model's assigned confidence score of 86.46000000000001 could be due to several factors. Firstly, the claim amount is just over half of the maximum coverage amount, which suggests a moderate risk. Secondly, the absence of any prior claims or accidents in the last five years indicates a generally good driving record, although the presence of a motoring offence might have increased the risk assessment slightly. Finally, the claim type of theft, not involving any damage, may also have influenced the score. The high annual mileage could also be a factor, as this could increase the risk of theft.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "CF10 1AA",
+    "full_details": {
+      "claimNumber": "C10001",
+      "firstName": "Nipsy",
+      "lastName": "Jhamb",
+      "incidentDate": "2024-03-17",
+      "claimDate": "2024-03-30",
+      "accessorNotes": "",
+      "vehicle_registration_number": "RQ21-VXU",
+      "policy_id": "MPI1000485",
+      "policy_issue_date": "2024-03-12",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 86,
+        "ML Reasoning": "The model's assigned confidence score of 86.46000000000001 could be due to several factors. Firstly, the claim amount is just over half of the maximum coverage amount, which suggests a moderate risk. Secondly, the absence of any prior claims or accidents in the last five years indicates a generally good driving record, although the presence of a motoring offence might have increased the risk assessment slightly. Finally, the claim type of theft, not involving any damage, may also have influenced the score. The high annual mileage could also be a factor, as this could increase the risk of theft.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "CF10 1AA",
+      "marital_status": "Married",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 45000.0,
+      "estimated_value_of_car": 45000.0,
+      "Claim_amount": null,
+      "car_brand": "Rolls-Royce",
+      "car_model": "Dawn",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10018",
+    "firstName": "Fasee",
+    "lastName": "Sharif",
+    "incidentDate": "2024-05-18",
+    "claimDate": "2024-05-30",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 95,
+      "ML Reasoning": "The model's confidence score of 95 likely stems from the fact that the claim amount is close to the max coverage amount, and no prior claims, accidents, or motoring offences were reported in the last five years. However, the absence of specified damage type may have lowered the confidence score slightly.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "SW1A 1AA",
+    "full_details": {
+      "claimNumber": "C10018",
+      "firstName": "Fasee",
+      "lastName": "Sharif",
+      "incidentDate": "2024-05-18",
+      "claimDate": "2024-05-30",
+      "accessorNotes": "",
+      "vehicle_registration_number": "NT25-QZY",
+      "policy_id": "MPI1000486",
+      "policy_issue_date": "2024-05-13",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 95,
+        "ML Reasoning": "The model's confidence score of 95 likely stems from the fact that the claim amount is close to the max coverage amount, and no prior claims, accidents, or motoring offences were reported in the last five years. However, the absence of specified damage type may have lowered the confidence score slightly.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "SW1A 1AA",
+      "marital_status": "Single",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 857362.0,
+      "estimated_value_of_car": 857362.0,
+      "Claim_amount": 70000.0,
+      "car_brand": "Land Rover",
+      "car_model": "Defender",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10133",
+    "firstName": "Shilpa",
+    "lastName": "Singh",
+    "incidentDate": "2024-06-19",
+    "claimDate": "2024-07-08",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 89,
+      "ML Reasoning": "The confidence score of 89.4 assigned by the model is likely due to the fact that the claim amount is less than the maximum coverage amount, and the policyholder has no history of prior claims, accidents, or motoring offences in the last 5 years. However, the model may be uncertain about the claim due to the \"Not Applicable\" status for damage type for a damage claim.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "EH1 1YZ",
+    "full_details": {
+      "claimNumber": "C10133",
+      "firstName": "Shilpa",
+      "lastName": "Singh",
+      "incidentDate": "2024-06-19",
+      "claimDate": "2024-07-08",
+      "accessorNotes": "",
+      "vehicle_registration_number": "YB61-ZVM",
+      "policy_id": "MPI1000487",
+      "policy_issue_date": "2024-06-14",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 89,
+        "ML Reasoning": "The confidence score of 89.4 assigned by the model is likely due to the fact that the claim amount is less than the maximum coverage amount, and the policyholder has no history of prior claims, accidents, or motoring offences in the last 5 years. However, the model may be uncertain about the claim due to the \"Not Applicable\" status for damage type for a damage claim.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "EH1 1YZ",
+      "marital_status": "Married",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 88000.0,
+      "estimated_value_of_car": 88000.0,
+      "Claim_amount": 20000.0,
+      "car_brand": "Land Rover",
+      "car_model": "Defender",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10202",
+    "firstName": "Lij",
+    "lastName": "Barnabas",
+    "incidentDate": "2024-07-20",
+    "claimDate": "2024-07-26",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 95,
+      "ML Reasoning": "The confidence score of 95% assigned by the model could be due to a combination of factors. The claimed amount falls within the maximum coverage amount, which increases the likelihood of the claim being legitimate. However, the presence of prior accidents in the last 5 years could be a risk factor that reduces the confidence score. Additionally, the absence of a specified damage type could also contribute to the relatively lower confidence score, as it may indicate insufficient information to fully validate the claim.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "LS1 1UR",
+    "full_details": {
+      "claimNumber": "C10202",
+      "firstName": "Lij",
+      "lastName": "Barnabas",
+      "incidentDate": "2024-07-20",
+      "claimDate": "2024-07-26",
+      "accessorNotes": "",
+      "vehicle_registration_number": "TX66-OHZ",
+      "policy_id": "MPI1000488",
+      "policy_issue_date": "2024-07-15",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 95,
+        "ML Reasoning": "The confidence score of 95% assigned by the model could be due to a combination of factors. The claimed amount falls within the maximum coverage amount, which increases the likelihood of the claim being legitimate. However, the presence of prior accidents in the last 5 years could be a risk factor that reduces the confidence score. Additionally, the absence of a specified damage type could also contribute to the relatively lower confidence score, as it may indicate insufficient information to fully validate the claim.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "LS1 1UR",
+      "marital_status": "Single",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 34532.91,
+      "estimated_value_of_car": 34532.91,
+      "Claim_amount": 23000.0,
+      "car_brand": "Land Rover",
+      "car_model": "Defender",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10007",
+    "firstName": "Harpreet",
+    "lastName": "Singh",
+    "incidentDate": "2024-02-21",
+    "claimDate": "2024-02-29",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Reject Claim",
+      "confidence": 92,
+      "ML Reasoning": "The confidence score assigned by the model is likely due to several factors: the claim type being theft, a type of claim that might be more commonly fraudulent; prior claims in the last 5 years, indicating a history of claim activity that could suggest higher risk; motoring offences in the last 5 years, which could suggest a higher risk profile; and a claim amount that is significantly less than the maximum coverage amount, which might be viewed as less suspicious. However, the lack of any reported damage might have reduced the score slightly.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "SW1A 1AA",
+    "full_details": {
+      "claimNumber": "C10007",
+      "firstName": "Harpreet",
+      "lastName": "Singh",
+      "incidentDate": "2024-02-21",
+      "claimDate": "2024-02-29",
+      "accessorNotes": "",
+      "vehicle_registration_number": "SV21-XLC",
+      "policy_id": "MPI1000489",
+      "policy_issue_date": "2024-02-16",
+      "dataOS": {
+        "suggest": "Reject Claim",
+        "confidence": 92,
+        "ML Reasoning": "The confidence score assigned by the model is likely due to several factors: the claim type being theft, a type of claim that might be more commonly fraudulent; prior claims in the last 5 years, indicating a history of claim activity that could suggest higher risk; motoring offences in the last 5 years, which could suggest a higher risk profile; and a claim amount that is significantly less than the maximum coverage amount, which might be viewed as less suspicious. However, the lack of any reported damage might have reduced the score slightly.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "SW1A 1AA",
+      "marital_status": "Married",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 153000.68,
+      "estimated_value_of_car": 153000.68,
+      "Claim_amount": 40000.0,
+      "car_brand": "Land Rover",
+      "car_model": "Discovery",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10005",
+    "firstName": "Gaurav",
+    "lastName": "Jain",
+    "incidentDate": "2025-03-22",
+    "claimDate": "2025-04-13",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 89,
+      "ML Reasoning": "The model likely assigned a confidence score of 89.66 based on a few key factors. First, the claim amount is very close to the max coverage amount, which could raise some concerns. Second, despite having no prior claims or accidents in the last 5 years, the claimant does have a history of motoring offenses. This could indicate a higher risk profile. Lastly, the annual mileage estimate is quite high, suggesting the vehicle is used frequently, possibly increasing the chance of an accident. However, because the damage type is not applicable, the model might have decreased the score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "SW1A 1AA",
+    "full_details": {
+      "claimNumber": "C10005",
+      "firstName": "Gaurav",
+      "lastName": "Jain",
+      "incidentDate": "2025-03-22",
+      "claimDate": "2025-04-13",
+      "accessorNotes": "",
+      "vehicle_registration_number": "SV21-XLC",
+      "policy_id": "MPI1000490",
+      "policy_issue_date": "2025-03-17",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 89,
+        "ML Reasoning": "The model likely assigned a confidence score of 89.66 based on a few key factors. First, the claim amount is very close to the max coverage amount, which could raise some concerns. Second, despite having no prior claims or accidents in the last 5 years, the claimant does have a history of motoring offenses. This could indicate a higher risk profile. Lastly, the annual mileage estimate is quite high, suggesting the vehicle is used frequently, possibly increasing the chance of an accident. However, because the damage type is not applicable, the model might have decreased the score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "SW1A 1AA",
+      "marital_status": "Married",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 76000.0,
+      "estimated_value_of_car": 76000.0,
+      "Claim_amount": 8000.0,
+      "car_brand": "Land Rover",
+      "car_model": "Discovery",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10093",
+    "firstName": "Kara",
+    "lastName": "Peterson",
+    "incidentDate": "2025-01-23",
+    "claimDate": "2025-02-27",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 92,
+      "ML Reasoning": "The model likely assigned a confidence score of 92.99000000000001 due to several factors. First, the claimed amount is close to the maximum coverage amount, which could raise suspicion. Second, the claimant has a history of prior claims and accidents within the last 5 years, which could indicate a higher risk profile. However, the lack of motoring offences in the past 5 years could have positively affected the score. The fact that the claim type is theft and there's no damage involved, which is consistent with the claim type, might have also influenced the model's scoring.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "M1 1AE",
+    "full_details": {
+      "claimNumber": "C10093",
+      "firstName": "Kara",
+      "lastName": "Peterson",
+      "incidentDate": "2025-01-23",
+      "claimDate": "2025-02-27",
+      "accessorNotes": "",
+      "vehicle_registration_number": "TX97-USQ",
+      "policy_id": "MPI1000491",
+      "policy_issue_date": "2025-01-18",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 92,
+        "ML Reasoning": "The model likely assigned a confidence score of 92.99000000000001 due to several factors. First, the claimed amount is close to the maximum coverage amount, which could raise suspicion. Second, the claimant has a history of prior claims and accidents within the last 5 years, which could indicate a higher risk profile. However, the lack of motoring offences in the past 5 years could have positively affected the score. The fact that the claim type is theft and there's no damage involved, which is consistent with the claim type, might have also influenced the model's scoring.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "M1 1AE",
+      "marital_status": "Married",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 9081.84,
+      "estimated_value_of_car": 9081.84,
+      "Claim_amount": 450.0,
+      "car_brand": "Jaguar",
+      "car_model": "E-Pace",
+      "damage_type": null
+    }
+  },
+  {
+    "claimNumber": "C10704",
+    "firstName": "Shikha",
+    "lastName": "Saha",
+    "incidentDate": "2025-11-24",
+    "claimDate": "2026-01-03",
+    "accessorNotes": "",
+    "dataOS": {
+      "suggest": "Accept Claim",
+      "confidence": 95,
+      "ML Reasoning": "The model assigned a confidence score of 95 due to several factors. The claim amount was considerably less than the maximum coverage amount, suggesting legitimacy. However, the claimant has had a prior accident in the last five years which might increase the risk evaluation, and would impact the score. The absence of any prior claims or motoring offenses is also taken into consideration, which likely has a positive impact on the confidence score. The absence of a specified damage type might have caused a minor reduction in the score.",
+      "reasoning": [
+        "All documents Submitted",
+        "Fraud Not suspected",
+        "Within claim limit",
+        "No Past motoring offenses and accidents",
+        "Damage covered in policy",
+        "No previous Claims",
+        "Significant ML Score",
+        "Significant LLM score"
+      ]
+    },
+    "postal_code": "BT1 1AA",
+    "full_details": {
+      "claimNumber": "C10704",
+      "firstName": "Shikha",
+      "lastName": "Saha",
+      "incidentDate": "2025-11-24",
+      "claimDate": "2026-01-03",
+      "accessorNotes": "",
+      "vehicle_registration_number": "AA62-IPQ",
+      "policy_id": "MPI1000492",
+      "policy_issue_date": "2025-11-19",
+      "dataOS": {
+        "suggest": "Accept Claim",
+        "confidence": 95,
+        "ML Reasoning": "The model assigned a confidence score of 95 due to several factors. The claim amount was considerably less than the maximum coverage amount, suggesting legitimacy. However, the claimant has had a prior accident in the last five years which might increase the risk evaluation, and would impact the score. The absence of any prior claims or motoring offenses is also taken into consideration, which likely has a positive impact on the confidence score. The absence of a specified damage type might have caused a minor reduction in the score.",
+        "reasoning": [
+          "All documents Submitted",
+          "Fraud Not suspected",
+          "Within claim limit",
+          "No Past motoring offenses and accidents",
+          "Damage covered in policy",
+          "No previous Claims",
+          "Significant ML Score",
+          "Significant LLM score"
+        ]
+      },
+      "postal_code": "BT1 1AA",
+      "marital_status": "Divorced",
+      "car_modified": true,
+      "modification_type": "Body",
+      "max_coverage_amount": 56508.4,
+      "estimated_value_of_car": 56508.4,
+      "Claim_amount": 7000.0,
+      "car_brand": "Lotus",
+      "car_model": "Evora",
+      "damage_type": "Not Specified"
+    }
+  }
+]
